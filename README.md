@@ -1,0 +1,2 @@
+# helpcord
+discord quest manager
